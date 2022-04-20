@@ -9,6 +9,7 @@ Research work from the Institute that has been released as open source can be fo
 * [UMAP](https://github.com/lmcinnes/umap): Dimension reduction and visualization
 * [HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan): Spatial clustering
 * [PyNNDescent](https://github.com/lmcinnes/pynndescent): Approximate nearest neighbour search
+* [EasyData](https://github.com/hackalog/easydata): Data science reproducibility framework
 * [Ensemble Clustering for Graphs](https://github.com/ftheberge/Ensemble-Clustering-for-Graphs): Graph clustering and community detection
 * [ThisNotThat](https://github.com/TutteInsitute/thisnotthat): Interactive data map explortation and labelling
 * [Graph Partition Measures](https://github.com/ftheberge/graph-partition-and-measures): Graph partition evaluation
