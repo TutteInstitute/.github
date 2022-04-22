@@ -7,7 +7,7 @@ Research work from the Institute that has been released as open source can be fo
 
 <br/>
 
-|[![](images/vectorizers.png)<br/>Vectorizers](https://github.com/TutteInstitute/.github/raw/main/profile/vectorizers) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/umap.png)<br/>UMAP](https://github.com/lmcinnes/umap) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/hdbscan.png)<br/>HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/pynndescent.png)<br/>PyNNDescent](https://github.com/lmcinnes/pynndescent) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/tutte.png)<br/>EasyData](https://github.com/hackalog/easydata) |
+|[![](images/vectorizers.png)<br/>Vectorizers](https://github.com/TutteInstitute/.github/raw/main/profile/images/vectorizers.png) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/umap.png)<br/>UMAP](https://github.com/lmcinnes/umap) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/hdbscan.png)<br/>HDBSCAN](https://github.com/scikit-learn-contrib/hdbscan) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/pynndescent.png)<br/>PyNNDescent](https://github.com/lmcinnes/pynndescent) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/tutte.png)<br/>EasyData](https://github.com/hackalog/easydata) |
 | :-: | :-: | :-: | :-: | :-: |
 |Tools for vectorizing sequence data    |Dimension reduction and visualization    |Spatial clustering                         |Approximate nearest neighbour search        |Data science reproducibility framework
 
