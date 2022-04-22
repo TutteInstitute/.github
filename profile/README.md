@@ -1,4 +1,4 @@
-# ![Tutte Institute for Mathematics and Computing](images/tutte-long.png)
+# ![Tutte Institute for Mathematics and Computing](https://github.com/TutteInstitute/.github/raw/main/profile/images/tutte-long.png)
 
 The Tutte Institute for Mathematics and Computing (TIMC) is a government research institute focused on fundamental mathematics and computer science.
 Research work from the Institute that has been released as open source can be found here.
