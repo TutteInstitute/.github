@@ -15,6 +15,6 @@ Research work from the Institute that has been released as open source can be fo
 | :-: | :-: | :-: | :-: |
 |Graph clustering and community detection |Interactive data map exploration and labeling |Graph partition evaluation              |Ensemble topic modeling |
 
-|[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/tutte.png)<br/>Glasbey](https://github.com/lmcinnes/glasbey) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/glasbey.png)<br/>Fast HDBSCAN](https://github.com/TutteInstitute/fast_hdbscan) |
+|[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/glasbey.png)<br/>Glasbey](https://github.com/lmcinnes/glasbey) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/hdbscan.png)<br/>Fast HDBSCAN](https://github.com/TutteInstitute/fast_hdbscan) |
 | :-: | :-: |
 |Glasbey Algorithmic Categrical Colour Palettes | Fast Multicore HDBSCAN in Numba |
