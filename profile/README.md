@@ -17,4 +17,4 @@ Research work from the Institute that has been released as open source can be fo
 
 |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/glasbey.png)<br/>Glasbey](https://github.com/lmcinnes/glasbey) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/hdbscan.png)<br/>Fast HDBSCAN](https://github.com/TutteInstitute/fast_hdbscan) |
 | :-: | :-: |
-|Glasbey Algorithmic Categrical Colour Palettes | Fast Multicore HDBSCAN in Numba |
+|Glasbey Algorithmic Categorical Colour Palettes | Fast Multicore HDBSCAN in Numba |
