@@ -18,6 +18,6 @@ Research work from the Institute that has been released as open source can be fo
 |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/glasbey.png)<br/>Glasbey](https://github.com/lmcinnes/glasbey) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/hdbscan.png)<br/>Fast HDBSCAN](https://github.com/TutteInstitute/fast_hdbscan) |[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/datamapplot.png)<br/>DataMapPlot](https://github.com/TutteInstitute/datamapplot) |
 | :-: | :-: | :-: |
 |Glasbey Algorithmic Categorical Colour Palettes | Fast Multicore HDBSCAN in Numba | Presentation Ready Data Map Plots |
-|[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/evoc.png)<br/>Glasbey](https://github.com/TutteInstute/evoc) | | |
+|[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/evoc.png)<br/>EVōC](https://github.com/TutteInstute/evoc) | | |
 | :-: | :-: | :-: |
 |Embedding Vector Oriented Clustering | | |
