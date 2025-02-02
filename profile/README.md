@@ -19,6 +19,6 @@ Research work from the Institute that has been released as open source can be fo
 | :-: | :-: | :-: |
 |Glasbey Algorithmic Categorical Colour Palettes | Fast Multicore HDBSCAN in Numba | Presentation Ready Data Map Plots |
 
-|[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/evoc.png)<br/>EVōC](https://github.com/TutteInstitute/evoc) |
-| :-: | 
-|Embedding Vector Oriented Clustering | 
+|[![](https://github.com/TutteInstitute/.github/raw/main/profile/images/evoc.png)<br/>EVōC](https://github.com/TutteInstitute/evoc) |[![](https://github.com/TutteInstitute/.github/blob/main/profile/images/toponymy_no_text_small.png)<br/>Toponymy](https://github.com/TutteInstitute/toponymy)  |
+| :-: | :-: | 
+|Embedding Vector Oriented Clustering | Topic Naming for Clusterable Data |
